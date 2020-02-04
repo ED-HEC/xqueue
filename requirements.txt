@@ -11,7 +11,7 @@ certifi==2019.11.28       # via requests
 chardet==3.0.4            # via requests
 django-storages==1.9
 django==2.2.10
-docutils==0.15.2          # via botocore
+docutils==0.16          # via botocore
 edx-django-release-util==0.3.6
 gunicorn==0.16.1
 idna==2.8                 # via requests
